@@ -11,7 +11,7 @@ import time
 def clss():
 	os.system('cls' if os.name=='nt' else 'clear')
 
-#test
+
 
 def main():
 	clss()
