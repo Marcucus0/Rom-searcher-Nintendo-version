@@ -1,6 +1,6 @@
 # Rom searcher Nintendo version (for Windows only)
 This python script will help you to find roms or emulators for nintendo games
-
+***
 > For this script to work well you will need to install several modules with pip:
 > - art   ```pip install art```
 > - termcolor   ```pip install termcolor``` 
@@ -17,3 +17,4 @@ This python script will help you to find roms or emulators for nintendo games
 
 > how it works:  
 > A new google chrome (control by the selenium module) window will open and redirect you to what you are looking for
+***
