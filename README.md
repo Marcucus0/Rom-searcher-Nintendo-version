@@ -6,10 +6,14 @@ This python script will help you to find roms or emulators for nintendo games
 > - termcolor   ```pip install termcolor``` 
 > - and finaly selenium   ```pip install selenium```
 > - Or, you can execute the ```pip install.bat``` file for a faster setup
-
-
+> 
 ***
 
 > this script allows you to:
 > - search for Nintendo game roms on the [romsforever.co](https://romsforever.co) site
 > - easily download emulators for each platform (you will be redirected to a [mega](https://mega.nz) page (the files are uploaded by me))
+
+***
+
+##how it works: 
+a new google chrome (control by the selenium module) window will open and redirect you to what you are looking for
