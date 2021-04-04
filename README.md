@@ -15,5 +15,5 @@ This python script will help you to find roms or emulators for nintendo games
 
 ***
 
-> how it works: 
+> how it works:  
 > A new google chrome (control by the selenium module) window will open and redirect you to what you are looking for
