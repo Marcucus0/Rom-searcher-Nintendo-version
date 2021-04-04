@@ -1,4 +1,4 @@
-# Rom-searcher-Nintendo-version (only for Windows)
+# Rom searcher Nintendo version (only for Windows)
 This python script will help you to find roms or emulators for nintendo games
 
 > For this script to work well you will need to install several modules with pip:
