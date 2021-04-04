@@ -5,6 +5,7 @@ This python script will help you to find roms or emulators for nintendo games
 > - art   ```pip install art```
 > - termcolor   ```pip install termcolor``` 
 > - and finaly selenium   ```pip install selenium```
+>   
 > - Or, you can execute the ```pip install.bat``` file for a faster setup
 > 
 ***
