@@ -7,5 +7,6 @@ This python script will help you to find roms or emulators for nintendo games
 > - and finaly selenium   ```pip install selenium```
 
 
-this script allows you to: - search for Nintendo game roms on the [romsforever.co](romsforever.co) site
-- easily download emulators for each platform (you will be redirected to a mega page (the files are uploaded by me))
+> this script allows you to:
+> - search for Nintendo game roms on the [romsforever.co](https://romsforever.co) site
+> - easily download emulators for each platform (you will be redirected to a [mega](https://mega.nz) page (the files are uploaded by me))
