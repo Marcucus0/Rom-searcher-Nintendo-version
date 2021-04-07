@@ -96,9 +96,11 @@ def prossesRom(nbre, name): #On redirige le navigateur vers les différentes cat
 		site = "https://romsforever.co/roms/wii-u"
 	if nbre == '12':
 		site = "https://romsforever.co/roms/switch"
-	else:
-		print("Veuillez entrer un nombre valide")
+	if nbre == '13':
 		sys.exit(0)
+	"""else:
+		print("Veuillez entrer un nombre valide")
+		sys.exit(0)"""
 
 
 	driver = webdriver.Chrome(executable_path="chromedriver.exe")
@@ -144,9 +146,9 @@ def prossesEmul(nbre): #On redirige le navigateur vers les différentes émulate
 	if nbre == '13':
 		clss()
 		sys.exit(0)
-	else:
+	"""else:
 		print("Veuillez entrer un nombre valide")
-		sys.exit(0)
+		sys.exit(0)"""
 
 	driver = webdriver.Chrome(executable_path="chromedriver.exe")
 	driver.get(site)
